@@ -19,13 +19,10 @@
 </p>
 <br />
 
-- 🔭 I’m currently own a company [Sorin IT Solutions](https://www.sorin-vestemean.web.app)
 - 🌱 I’m currently learning **Angular ⚛️, NestJS & Mongo 👨🏾‍💻** 
 - 👨‍💻 All of my projects are available at [https://www.sorin-vestemean.web.app](https://www.sorin-vestemean.web.app) 
-- 📝 I regularly write articles on [https://www.vestemeansorin91.com/articles](https://www.vestemeansorin91.com/articles) 
 - 💬 Ask me about **Fullstack development** 
 - 📫 How to reach me **vestemeansorin91@gmail.com** 
-- ⚡ Fun fact **I've played PUBG & League of Legends (@sorinsejoaca)**
 
 <br />
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=vestemeansorin91&show_icons=true&locale=en&theme=dracula" alt="vestemeansorin91" />
