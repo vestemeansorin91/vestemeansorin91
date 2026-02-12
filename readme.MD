@@ -32,7 +32,7 @@ Full-stack developer focused on building reliable web apps end-to-end (UI, APIs,
 - Cloud/DevOps: Docker, CI/CD
 
 <br />
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=vestemeansorin91&show_icons=true&locale=en&theme=dracula" alt="vestemeansorin91" />
+<p>&nbsp; <img align="center" src="https://github-profile-trophy-fork-two.vercel.app/api?username=vestemeansorin91&show_icons=true&locale=en&theme=dracula" alt="vestemeansorin91" />
 </p>
 <br />
 <h3 align="left">Connect with me:</h3>
