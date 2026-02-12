@@ -5,17 +5,13 @@
 </p>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vestemeansorin91" alt="vestemeansorin91" />
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=vestemeansorin91" alt="vestemeansorin91" />
   </a>
 </p>
 <p align="left">
   <a href="https://twitter.com/recodenized" target="blank">
     <img src="https://img.shields.io/twitter/follow/recodenized?logo=twitter&style=for-the-badge" alt="recodenized" />
   </a>
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vestemeansorin91&theme=dracula" alt="vestemeansorin91" />
 </p>
 <br />
 
