@@ -211,7 +211,3 @@ Full-stack developer focused on building reliable web apps end-to-end (UI, APIs,
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
   </a>
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vestemeansorin91&show_icons=true&locale=en&theme=dracula" alt="vestemeansorin91" />
-</p>
-
