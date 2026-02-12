@@ -8,11 +8,6 @@
     <img src="https://github-profile-trophy-fork-two.vercel.app/?username=vestemeansorin91" alt="vestemeansorin91" />
   </a>
 </p>
-<p align="left">
-  <a href="https://twitter.com/recodenized" target="blank">
-    <img src="https://img.shields.io/twitter/follow/recodenized?logo=twitter&style=for-the-badge" alt="recodenized" />
-  </a>
-</p>
 <br />
 
 # Hi, I’m Sorin Veștemean
@@ -20,7 +15,7 @@
 Full-stack developer focused on building reliable web apps end-to-end (UI, APIs, deployments).
 
 - Website: https://www.sorin-vestemean.web.app
-- Email: vestemeansorin91@gmail.com
+- Email: sorin.developer@gmail.com
 - Dev.to: https://dev.to/vestemeansorin91
 - X/Twitter: https://twitter.com/recodenized
 - Stack Overflow: https://stackoverflow.com/users/5936602
@@ -31,9 +26,6 @@ Full-stack developer focused on building reliable web apps end-to-end (UI, APIs,
 - Data: MongoDB, PostgreSQL
 - Cloud/DevOps: Docker, CI/CD
 
-<br />
-<p>&nbsp; <img align="center" src="https://github-profile-trophy-fork-two.vercel.app/api?username=vestemeansorin91&show_icons=true&locale=en&theme=dracula" alt="vestemeansorin91" />
-</p>
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
