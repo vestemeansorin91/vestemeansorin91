@@ -19,10 +19,21 @@
 </p>
 <br />
 
-- 🌱 I’m currently learning **Angular ⚛️, NestJS & Mongo 👨🏾‍💻** 
-- 👨‍💻 All of my projects are available at [https://www.sorin-vestemean.web.app](https://www.sorin-vestemean.web.app) 
-- 💬 Ask me about **Fullstack development** 
-- 📫 How to reach me **vestemeansorin91@gmail.com** 
+# Hi, I’m Sorin Veștemean
+
+Full-stack developer focused on building reliable web apps end-to-end (UI, APIs, deployments).
+
+- Website: https://www.sorin-vestemean.web.app
+- Email: vestemeansorin91@gmail.com
+- Dev.to: https://dev.to/vestemeansorin91
+- X/Twitter: https://twitter.com/recodenized
+- Stack Overflow: https://stackoverflow.com/users/5936602
+
+## What I’m working with lately
+- Frontend: Angular, React (when it fits)
+- Backend: NestJS, Node.js
+- Data: MongoDB, PostgreSQL
+- Cloud/DevOps: Docker, CI/CD
 
 <br />
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=vestemeansorin91&show_icons=true&locale=en&theme=dracula" alt="vestemeansorin91" />
