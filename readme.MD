@@ -21,7 +21,7 @@ Full-stack developer focused on building reliable web apps end-to-end (UI, APIs,
 - Stack Overflow: https://stackoverflow.com/users/5936602
 
 ## What I'm working with lately
-- Frontend: Angular, React (when it fits)
+- Frontend: Angular, Vue, React 
 - Backend: NestJS, Node.js
 - Data: MongoDB, PostgreSQL
 - Cloud/DevOps: Docker, CI/CD
