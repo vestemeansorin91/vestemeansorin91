@@ -1,11 +1,8 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sorin Veștemean </h1>
 <h3 align="center">Fullstack Developer</h3>
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=vestemeansorin91&label=Profile%20views&color=0e75b6&style=flat" alt="vestemeansorin91" />
 </p>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=vestemeansorin91.vestemeansorin91&left_color=grey&right_color=6c9ed4&left_text=Profile%20views" />
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vestemeansorin91" />
