@@ -3,6 +3,14 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vestemeansorin91&label=Profile%20views&color=0e75b6&style=flat" alt="vestemeansorin91" />
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=vestemeansorin91&label=Profile%20views&color=lightgrey&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=vestemeansorin91&label=Profile%20views&color=6c9ed4&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=vestemeansorin91&color=grey&style=flat&label=views" />
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=vestemeansorin91.vestemeansorin91&left_color=grey&right_color=6c9ed4" />
+
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vestemeansorin91" />
 </p>
