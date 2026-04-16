@@ -9,8 +9,17 @@
   </a>
 </p>
 <br />
+<img src="https://github-profile-trophy.vercel.app/?username=vestemeansorin91" alt="vestemeansorin91" />
+<br />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vestemeansorin91&theme=tokyo-night" />
+<br />
+<img src="https://streak-stats.demolab.com?user=vestemeansorin91&theme=dark" />
+<br />
+<img src="https://github-trophies.vercel.app/?username=vestemeansorin91" />
+<br />
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=vestemeansorin91" />
+<br />
 
-# Hi, I'm Sorin Veștemean
 
 Full-stack developer focused on building reliable web apps end-to-end (UI, APIs, deployments).
 
