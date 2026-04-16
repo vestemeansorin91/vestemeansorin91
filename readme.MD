@@ -3,23 +3,13 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vestemeansorin91&label=Profile%20views&color=0e75b6&style=flat" alt="vestemeansorin91" />
 </p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=vestemeansorin91" alt="vestemeansorin91" />
-  </a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vestemeansorin91" />
 </p>
-<br />
-<img src="https://github-profile-trophy.vercel.app/?username=vestemeansorin91" alt="vestemeansorin91" />
-<br />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vestemeansorin91&theme=tokyo-night" />
-<br />
-<img src="https://streak-stats.demolab.com?user=vestemeansorin91&theme=dark" />
-<br />
-<img src="https://github-trophies.vercel.app/?username=vestemeansorin91" />
-<br />
-<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=vestemeansorin91" />
-<br />
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vestemeansorin91&theme=github-light&custom_title=%20&hide_border=true" />
+</p>
 
 Full-stack developer focused on building reliable web apps end-to-end (UI, APIs, deployments).
 
