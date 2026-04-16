@@ -4,11 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=vestemeansorin91&label=Profile%20views&color=0e75b6&style=flat" alt="vestemeansorin91" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=vestemeansorin91&label=Profile%20views&color=lightgrey&style=flat" />
-<img src="https://komarev.com/ghpvc/?username=vestemeansorin91&label=Profile%20views&color=6c9ed4&style=flat" />
-<img src="https://komarev.com/ghpvc/?username=vestemeansorin91&color=grey&style=flat&label=views" />
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=vestemeansorin91.vestemeansorin91&left_color=grey&right_color=6c9ed4" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=vestemeansorin91.vestemeansorin91&left_color=grey&right_color=6c9ed4&left_text=Profile%20views" />
 
 
 <p align="center">
