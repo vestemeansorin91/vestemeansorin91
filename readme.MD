@@ -10,7 +10,7 @@
 </p>
 <br />
 
-# Hi, I’m Sorin Veștemean
+# Hi, I'm Sorin Veștemean
 
 Full-stack developer focused on building reliable web apps end-to-end (UI, APIs, deployments).
 
@@ -20,7 +20,7 @@ Full-stack developer focused on building reliable web apps end-to-end (UI, APIs,
 - X/Twitter: https://twitter.com/recodenized
 - Stack Overflow: https://stackoverflow.com/users/5936602
 
-## What I’m working with lately
+## What I'm working with lately
 - Frontend: Angular, React (when it fits)
 - Backend: NestJS, Node.js
 - Data: MongoDB, PostgreSQL
@@ -28,7 +28,7 @@ Full-stack developer focused on building reliable web apps end-to-end (UI, APIs,
 
 <br />
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px; align-items: center;">
   <a href="https://dev.to/vestemeansorin91" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vestemeansorin91" height="30" width="40" />
   </a>
@@ -41,12 +41,12 @@ Full-stack developer focused on building reliable web apps end-to-end (UI, APIs,
   <a href="https://instagram.com/recodenized" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="damil0la.jpg" height="30" width="40" />
   </a>
-</p>
+</div>
 <br />
 <h3 align="left">Tech Stack</h3>
 
 <h4 align="left">Frontend</h4>
-<p align="left">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px; align-items: center;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
@@ -98,10 +98,10 @@ Full-stack developer focused on building reliable web apps end-to-end (UI, APIs,
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
   </a>
-</p>
+</div>
 
 <h4 align="left">Backend</h4>
-<p align="left">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px; align-items: center;">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
   </a>
@@ -132,10 +132,10 @@ Full-stack developer focused on building reliable web apps end-to-end (UI, APIs,
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
-</p>
+</div>
 
 <h4 align="left">DevOps / Cloud</h4>
-<p align="left">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px; align-items: center;">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
   </a>
@@ -166,10 +166,10 @@ Full-stack developer focused on building reliable web apps end-to-end (UI, APIs,
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   </a>
-</p>
+</div>
 
 <h4 align="left">Testing</h4>
-<p align="left">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px; align-items: center;">
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
   </a>
@@ -179,10 +179,10 @@ Full-stack developer focused on building reliable web apps end-to-end (UI, APIs,
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
   </a>
-</p>
+</div>
 
 <h4 align="left">Design</h4>
-<p align="left">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px; align-items: center;">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
@@ -210,4 +210,4 @@ Full-stack developer focused on building reliable web apps end-to-end (UI, APIs,
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
   </a>
-</p>
+</div>
